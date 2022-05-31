@@ -1,0 +1,16 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.page-title {
+    text-align: center;
+    font-size: 36px;
+}
+
+.main-image {
+    text-align: center;
+}
+
+#steps {
+    background-color: blanchedalmond;
+}
